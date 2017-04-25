@@ -58,5 +58,4 @@ public class Launcher extends AppCompatActivity {
     }
     public void onContinue() {
     }
-    
 }
